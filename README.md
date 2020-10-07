@@ -1,2 +1,1 @@
-# JavaScript-Animation
-Animation using the JavaScript
+# Python Image Scrapper
